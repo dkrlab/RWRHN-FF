@@ -4,4 +4,4 @@ RWRHN-FF is a semi-supervised algorithm. It integrates various types of data int
 
 For more details:
 Mehranfar, A., Ghadiri, N., Kouhsar, M., & Golshani, A. 
-A Type-2 fuzzy data fusion approach for building reliable weighted protein interaction networks with application in protein complex detection.
+(A Type-2 fuzzy data fusion approach for building reliable weighted protein interaction networks with application in protein complex detection.)
